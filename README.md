@@ -1,2 +1,2 @@
-# subreddit_hashtag
-Track using subreddits as hashtags
+# hashtags-for-reddit
+Track trends using subreddits as hashtags
